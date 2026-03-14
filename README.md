@@ -49,5 +49,3 @@ The application includes validation to prevent common errors:
 * Invalid numeric input
 * Division by zero
 * Unsupported operations
-
-Azzam
